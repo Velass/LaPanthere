@@ -52,6 +52,13 @@ a:hover {
     padding: 50px;
 }
 
+.bloc-md h2{
+    font-size: 30px;
+}
+.col-xs-12 span {
+    font-size: 26px;
+}
+
 .bloc-sm {
     padding: 20px 50px;
 }
